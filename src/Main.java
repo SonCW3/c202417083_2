@@ -2,6 +2,7 @@ public class Main {
 public static void main(String[] args) {
 System.out.println("손창우");
 World.run();
-Hello.run();
+Hello.run();    
+World.run2();
 }
 }
